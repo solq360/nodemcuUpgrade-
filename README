@@ -1,0 +1,4 @@
+* 1.运行 Nodemcu  Studio 将 项目 lua 所有文件上传
+* 2.执行 build.lua 生成 upgrade.lc
+* 3.执行 runUpgrade.lua 可修改socket 端口
+* 4.执行java 上传 sh.sh 注意修改esp 连 接IP
